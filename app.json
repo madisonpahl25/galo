@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "galo-2",
-    "slug": "galo-2",
+    "name": "galo",
+    "slug": "galo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

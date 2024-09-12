@@ -1,6 +1,6 @@
 import { StyleSheet, Platform } from 'react-native';
 import ParallaxScrollView from '@/components/ParallaxScrollView';
-import { ThemedText } from '@/components/ThemedText';
+// import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 import { Welcome } from '@/components/Home/Welcome';
 import Favorites from '@/components/Home/Favorites';
